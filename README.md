@@ -23,7 +23,7 @@
 
 <h3 align="center">Core Technologies</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />&nbsp;&nbsp;
