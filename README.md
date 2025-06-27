@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C/c++-000000?style=for-the-badge&logo=c&logoColor=white" alt="Express.js" />&nbsp;&nbsp;
 </p>
 
 <h3 align="center">Frontend Technologies</h3>
